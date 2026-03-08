@@ -157,7 +157,7 @@ Z-scores help identify **which variables contribute most to anomalies**.
 
 ---
 
-## Technologies Used
+## Libraries Used
 
 - Python
 - Pandas
@@ -212,21 +212,3 @@ This type of anomaly detection system can be used in:
 - **Fraud detection**
 - **Financial transaction monitoring**
 - **Manufacturing quality control**
-
----
-
-## Future Improvements
-
-Possible extensions for this project include:
-
-- Hyperparameter optimization for DBSCAN
-- Real-time anomaly detection pipelines
-- Streamlit dashboards for interactive monitoring
-- Deep learning anomaly detection (Autoencoders)
-- Model evaluation using labeled anomaly datasets
-
----
-
-## Author
-
-Data Science / Machine Learning Portfolio Project
